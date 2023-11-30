@@ -1,5 +1,5 @@
 Hi, I’m Root Lindow
-Just a Guy In Love With Code
+Just a Guy In Love With Codes
 
 <!---
 RootViper4/RootViper4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
