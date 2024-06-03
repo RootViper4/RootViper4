@@ -18,7 +18,7 @@ def main():
         print(f"  {str(idx).zfill(3)}   {service}")
 
     print("\nusr/bin/locals:~$ whoami | pgrep 'python|flask'")
-    print("  Root Lindow Fullstack Seveloper && Data Dnalyst")
+    print("  Root Lindow Fullstack Developer && Data Analyst")
 
     print("\nusr/bin/locals:~$ whereis 'Root Lindow'")
     print("  Nicosia/Cyprus | Kolwezi/D.R.Congo")
