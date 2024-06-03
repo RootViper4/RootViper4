@@ -1,6 +1,55 @@
 Hi, I’m Root Lindow
 Just a Guy In Love With Codes
 
+#!/usr/bin/env python3
+
+import os
+import subprocess
+
+def main():
+    print("usr/bin/locals:~$ ps -e")
+    services = [
+        "python",
+        "flask",
+        "fastapi",
+        "tensorflow",
+        "pytorch",
+        "scikit-learn"
+    ]
+    for idx, service in enumerate(services, start=1):
+        print(f"  {str(idx).zfill(3)}   {service}")
+
+    print("\nusr/bin/locals:~$ whoami | grep 'python|flask'")
+    print("  Root Lindow python && flask developer")
+
+    print("\nusr/bin/locals:~$ whereis 'Root Lindow'")
+    print("  nicosia/Cyprus | doha/Qatar")
+
+    print("\nusr/bin/locals:~$ cat life.py")
+    life_code = '''
+def life():
+    while True:
+        code()
+
+def code():
+    print("Coding...")
+
+if __name__ == "__main__":
+    life()
+'''
+    print(life_code)
+
+    print("usr/bin/locals:~$ git status")
+    print("  fatal: not a git repository (or any of the parent directories): .git")
+
+    print("\nusr/bin/locals:~$ chmod +x root.py && ./root.py")
+    print("  1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%")
+    print("\n  [OK] No errors")
+
+if __name__ == "__main__":
+    main()
+
+
 <a href="https://app.daily.dev/root_lindow"><img src="https://github.com/RootViper4/RootViper4/blob/main/devcard.svg" width="200" alt="Root Lindow's Dev Card"/></a>
 
 <!---
