@@ -49,6 +49,7 @@ if __name__ == "__main__":
 ```
 
 <b>My Daily Dev Card</b>
+<br/>
 <a href="https://app.daily.dev/root_lindow"><img src="https://github.com/RootViper4/RootViper4/blob/main/devcard.svg" width="200" alt="Root Lindow's Dev Card"/></a>
 
 <!---
