@@ -48,7 +48,7 @@ if __name__ == "__main__":
     main()
 ```
 
-<a href="https://app.daily.dev/root_lindow"><img src="https://github.com/RootViper4/RootViper4/blob/main/devcard.svg" width="200" alt="Root Lindow's Dev Card"/></a>
+<a href="https://app.daily.dev/root_lindow"><img src="https://api.daily.dev/devcards/v2/VdsD5PAu7.png?type=wide&r=h4f" width="652" alt="Root Lindow's Dev Card"/></a>
 
 ###
 
