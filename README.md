@@ -52,11 +52,11 @@ if __name__ == "__main__":
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RootViper4/RootViper4/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RootViper4/RootViper4/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RootViper4/RootViper4/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
